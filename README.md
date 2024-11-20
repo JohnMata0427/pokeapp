@@ -26,3 +26,7 @@
 >
 >  🧩<strong>Interfaz Dinámica:</strong>
 >   Diseño interactivo y adaptativo usando Ionic Framework.
+
+🚮 **Creacion de la Aplicación Ionic**
+>   ionic start pokeapp blank --type=angular
+>   cd pokeapp
