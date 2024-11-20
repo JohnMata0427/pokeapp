@@ -2,6 +2,9 @@
  Laboratorio: Consumo de API's con Ionic <img src = 'https://github.com/user-attachments/assets/cd296f57-187a-44a9-a84f-05e873f23aba' height='35px'>
 </h1>
 
+![291shots_so](https://github.com/user-attachments/assets/2ddc4969-35c9-4bad-abc7-9ab340908109)
+
+
 > [!IMPORTANT]
 > **Planteamiento del problema**
 >
